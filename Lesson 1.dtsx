@@ -11,8 +11,8 @@
   DTS:LocaleID="2052"
   DTS:ObjectName="Lesson 1"
   DTS:PackageType="5"
-  DTS:VersionBuild="21"
-  DTS:VersionGUID="{469B7EBF-99AF-4711-BB69-7F8DEB45F90E}">
+  DTS:VersionBuild="22"
+  DTS:VersionGUID="{401C8050-241A-4269-A872-B0225CAEFA23}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
